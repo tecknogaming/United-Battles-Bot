@@ -1,0 +1,37 @@
+{
+  "name": "united-battles-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "Teck",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "@teckno/ilogs": "^1.1.0",
+    "discord-api-types": "^0.31.1",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "pokecord": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecknogaming/Unuted-Battles-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tecknogaming/Unuted-Battles-Bot/issues"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  },
+  "homepage": "https://github.com/tecknogaming/Unuted-Battles-Bot#readme",
+  "description": ""
+}

@@ -57,7 +57,12 @@ function chooseRandom() {
 		"Cramorant",
 		"Gengar",
 		"Garchomp",
-		"Cinderace"
+		"Cinderace",
+		"Espeon",
+		"Delphox",
+		"Glaceon",
+		"Buzzwhole",
+		"Tyranitar"
 	];
 	const chance = {
 		"Absol": 8,
